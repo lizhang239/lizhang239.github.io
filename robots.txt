@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://liz239.github.io/sitemap.xml
+Sitemap: https://lizhang239.github.io/lizhang239.github.io/sitemap.xml
